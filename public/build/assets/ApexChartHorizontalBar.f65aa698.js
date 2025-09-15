@@ -1,0 +1,1 @@
+import{d as r,aq as s,aO as n,cg as c,c as p,E as i,s as e,cb as u}from"./main.dc3150f2.js";const _=r({__name:"ApexChartHorizontalBar",setup(h){const a=s(),t=n(()=>c(a.current.value)),o=[{data:[700,350,480,600,210,550,150]}];return(f,l)=>(p(),i(e(u),{type:"bar",height:"400",options:e(t),series:o},null,8,["options"]))}});export{_ as default};

@@ -1,0 +1,2665 @@
+{
+  "resources/images/avatars/avatar-1.png": {
+    "file": "assets/avatar-1.129659bb.png",
+    "src": "resources/images/avatars/avatar-1.png"
+  },
+  "resources/images/avatars/avatar-2.png": {
+    "file": "assets/avatar-2.11d6be6e.png",
+    "src": "resources/images/avatars/avatar-2.png"
+  },
+  "resources/images/avatars/avatar-3.png": {
+    "file": "assets/avatar-3.47317f35.png",
+    "src": "resources/images/avatars/avatar-3.png"
+  },
+  "resources/images/avatars/avatar-4.png": {
+    "file": "assets/avatar-4.b0163f21.png",
+    "src": "resources/images/avatars/avatar-4.png"
+  },
+  "resources/images/avatars/avatar-5.png": {
+    "file": "assets/avatar-5.d340221a.png",
+    "src": "resources/images/avatars/avatar-5.png"
+  },
+  "resources/images/avatars/avatar-6.png": {
+    "file": "assets/avatar-6.c56877f3.png",
+    "src": "resources/images/avatars/avatar-6.png"
+  },
+  "resources/images/avatars/avatar-8.png": {
+    "file": "assets/avatar-8.e4ad8d8c.png",
+    "src": "resources/images/avatars/avatar-8.png"
+  },
+  "resources/images/icons/brands/figma-label.png": {
+    "file": "assets/figma-label.05da7e6a.png",
+    "src": "resources/images/icons/brands/figma-label.png"
+  },
+  "resources/images/icons/brands/sketch-label.png": {
+    "file": "assets/sketch-label.a492565a.png",
+    "src": "resources/images/icons/brands/sketch-label.png"
+  },
+  "resources/images/icons/brands/react-label.png": {
+    "file": "assets/react-label.8067a042.png",
+    "src": "resources/images/icons/brands/react-label.png"
+  },
+  "resources/images/icons/brands/html-label.png": {
+    "file": "assets/html-label.e57f06f4.png",
+    "src": "resources/images/icons/brands/html-label.png"
+  },
+  "resources/images/icons/brands/social-label.png": {
+    "file": "assets/social-label.cd6ee135.png",
+    "src": "resources/images/icons/brands/social-label.png"
+  },
+  "resources/images/icons/brands/vue-label.png": {
+    "file": "assets/vue-label.d75c90b8.png",
+    "src": "resources/images/icons/brands/vue-label.png"
+  },
+  "resources/images/icons/brands/xd-label.png": {
+    "file": "assets/xd-label.9621d2a8.png",
+    "src": "resources/images/icons/brands/xd-label.png"
+  },
+  "resources/images/avatars/avatar-7.png": {
+    "file": "assets/avatar-7.644db279.png",
+    "src": "resources/images/avatars/avatar-7.png"
+  },
+  "resources/images/avatars/avatar-15.png": {
+    "file": "assets/avatar-15.e6f6c08b.png",
+    "src": "resources/images/avatars/avatar-15.png"
+  },
+  "resources/images/icons/project-icons/figma.png": {
+    "file": "assets/figma.31d0d56c.png",
+    "src": "resources/images/icons/project-icons/figma.png"
+  },
+  "resources/images/icons/project-icons/event.png": {
+    "file": "assets/event.20524c87.png",
+    "src": "resources/images/icons/project-icons/event.png"
+  },
+  "resources/images/icons/project-icons/html5.png": {
+    "file": "assets/html5.8c2f234c.png",
+    "src": "resources/images/icons/project-icons/html5.png"
+  },
+  "resources/images/icons/project-icons/react.png": {
+    "file": "assets/react.ad5344b4.png",
+    "src": "resources/images/icons/project-icons/react.png"
+  },
+  "resources/images/icons/project-icons/social.png": {
+    "file": "assets/social.58c5c2e2.png",
+    "src": "resources/images/icons/project-icons/social.png"
+  },
+  "resources/images/icons/project-icons/support.png": {
+    "file": "assets/support.bb003e95.png",
+    "src": "resources/images/icons/project-icons/support.png"
+  },
+  "resources/images/icons/project-icons/twitter.png": {
+    "file": "assets/twitter.6d7297ba.png",
+    "src": "resources/images/icons/project-icons/twitter.png"
+  },
+  "resources/images/svg/gift.svg": {
+    "file": "assets/gift.ad8d4753.svg",
+    "src": "resources/images/svg/gift.svg"
+  },
+  "resources/images/svg/keyboard.svg": {
+    "file": "assets/keyboard.c13da4be.svg",
+    "src": "resources/images/svg/keyboard.svg"
+  },
+  "resources/images/svg/discord.svg": {
+    "file": "assets/discord.b6c4f85c.svg",
+    "src": "resources/images/svg/discord.svg"
+  },
+  "resources/images/icons/project-icons/xd.png": {
+    "file": "assets/xd.53f1173b.png",
+    "src": "resources/images/icons/project-icons/xd.png"
+  },
+  "resources/images/icons/project-icons/vue.png": {
+    "file": "assets/vue.df3e31df.png",
+    "src": "resources/images/icons/project-icons/vue.png"
+  },
+  "resources/images/svg/laptop.svg": {
+    "file": "assets/laptop.4918cce9.svg",
+    "src": "resources/images/svg/laptop.svg"
+  },
+  "resources/images/icons/file/txt.png": {
+    "file": "assets/txt.3c29a127.png",
+    "src": "resources/images/icons/file/txt.png"
+  },
+  "resources/images/pages/user-profile-header-bg.png": {
+    "file": "assets/user-profile-header-bg.5dda7b2a.png",
+    "src": "resources/images/pages/user-profile-header-bg.png"
+  },
+  "resources/images/svg/rocket.svg": {
+    "file": "assets/rocket.1da4fb0a.svg",
+    "src": "resources/images/svg/rocket.svg"
+  },
+  "resources/images/svg/lightbulb.svg": {
+    "file": "assets/lightbulb.29b8c1c7.svg",
+    "src": "resources/images/svg/lightbulb.svg"
+  },
+  "resources/images/icons/file/xls.png": {
+    "file": "assets/xls.7248355c.png",
+    "src": "resources/images/icons/file/xls.png"
+  },
+  "resources/images/DITADS Logo_PNG.png": {
+    "file": "assets/DITADS Logo_PNG.6072795d.png",
+    "src": "resources/images/DITADS Logo_PNG.png"
+  },
+  "resources/images/pages/misc-mask-dark.png": {
+    "file": "assets/misc-mask-dark.d10426f0.png",
+    "src": "resources/images/pages/misc-mask-dark.png"
+  },
+  "resources/images/pages/misc-mask-light.png": {
+    "file": "assets/misc-mask-light.d25607d4.png",
+    "src": "resources/images/pages/misc-mask-light.png"
+  },
+  "resources/images/logos.png": {
+    "file": "assets/logos.00c35d1a.png",
+    "src": "resources/images/logos.png"
+  },
+  "resources/images/pages/auth-v2-login-illustration-bordered-dark.png": {
+    "file": "assets/auth-v2-login-illustration-bordered-dark.a595a9b7.png",
+    "src": "resources/images/pages/auth-v2-login-illustration-bordered-dark.png"
+  },
+  "resources/images/pages/auth-v2-login-illustration-bordered-light.png": {
+    "file": "assets/auth-v2-login-illustration-bordered-light.47ee3625.png",
+    "src": "resources/images/pages/auth-v2-login-illustration-bordered-light.png"
+  },
+  "resources/images/pages/auth-v2-login-illustration-dark.png": {
+    "file": "assets/auth-v2-login-illustration-dark.0878e8b9.png",
+    "src": "resources/images/pages/auth-v2-login-illustration-dark.png"
+  },
+  "resources/images/pages/auth-v2-login-illustration-light.png": {
+    "file": "assets/auth-v2-login-illustration-light.d1fd488d.png",
+    "src": "resources/images/pages/auth-v2-login-illustration-light.png"
+  },
+  "resources/images/no-data-found.png": {
+    "file": "assets/no-data-found.4d023ded.png",
+    "src": "resources/images/no-data-found.png"
+  },
+  "resources/images/pages/auth-v2-verify-email-illustration-dark.png": {
+    "file": "assets/auth-v2-verify-email-illustration-dark.d9608fa7.png",
+    "src": "resources/images/pages/auth-v2-verify-email-illustration-dark.png"
+  },
+  "resources/images/pages/misc-under-maintenance.png": {
+    "file": "assets/misc-under-maintenance.ab2b667a.png",
+    "src": "resources/images/pages/misc-under-maintenance.png"
+  },
+  "resources/images/pages/401_error.png": {
+    "file": "assets/401_error.84e78b00.png",
+    "src": "resources/images/pages/401_error.png"
+  },
+  "node_modules/vue3-pdf-app/dist/icons/2c5394094daa1c985564.eot": {
+    "file": "assets/2c5394094daa1c985564.2dc10cdf.eot",
+    "src": "node_modules/vue3-pdf-app/dist/icons/2c5394094daa1c985564.eot"
+  },
+  "node_modules/vue3-pdf-app/dist/icons/6a9f5e4b044e436823f3.woff2": {
+    "file": "assets/6a9f5e4b044e436823f3.119e7d94.woff2",
+    "src": "node_modules/vue3-pdf-app/dist/icons/6a9f5e4b044e436823f3.woff2"
+  },
+  "resources/images/pages/401.png": {
+    "file": "assets/401.605d79f7.png",
+    "src": "resources/images/pages/401.png"
+  },
+  "node_modules/vue3-pdf-app/dist/icons/fa070dcc71d7190e8c44.woff": {
+    "file": "assets/fa070dcc71d7190e8c44.4e4fafd5.woff",
+    "src": "node_modules/vue3-pdf-app/dist/icons/fa070dcc71d7190e8c44.woff"
+  },
+  "resources/images/pages/page_error_401.png": {
+    "file": "assets/page_error_401.a8bdbea5.png",
+    "src": "resources/images/pages/page_error_401.png"
+  },
+  "node_modules/vue3-pdf-app/dist/icons/11e2353a399825874867.ttf": {
+    "file": "assets/11e2353a399825874867.14783bda.ttf",
+    "src": "node_modules/vue3-pdf-app/dist/icons/11e2353a399825874867.ttf"
+  },
+  "node_modules/vue3-pdf-app/dist/icons/6781170c0c08b15fff2d.svg": {
+    "file": "assets/6781170c0c08b15fff2d.7d25f6f7.svg",
+    "src": "node_modules/vue3-pdf-app/dist/icons/6781170c0c08b15fff2d.svg"
+  },
+  "resources/images/pages/404.png": {
+    "file": "assets/404.fee4b60b.png",
+    "src": "resources/images/pages/404.png"
+  },
+  "resources/ts/main.ts": {
+    "file": "assets/main.dc3150f2.js",
+    "src": "resources/ts/main.ts",
+    "isEntry": true,
+    "dynamicImports": [
+      "_webfontloader.b777d690.js",
+      "resources/ts/layouts/components/DefaultLayoutWithHorizontalNav.vue",
+      "resources/ts/layouts/components/DefaultLayoutWithVerticalNav.vue",
+      "resources/ts/layouts/blank.vue",
+      "resources/ts/layouts/components/change_password.vue",
+      "resources/ts/layouts/components/Footer.vue",
+      "resources/ts/layouts/components/NavBarI18n.vue",
+      "resources/ts/layouts/components/NavBarNotifications.vue",
+      "resources/ts/layouts/components/NavbarShortcuts.vue",
+      "resources/ts/layouts/components/NavbarThemeSwitcher.vue",
+      "resources/ts/layouts/components/NavSearchBar.vue",
+      "resources/ts/layouts/components/UserProfile.vue",
+      "resources/ts/pages/client/profile/ViewProfile/dialog/editDialog.vue",
+      "resources/ts/pages/editor/upload-published-view/validation_dialog/released.vue",
+      "resources/ts/pages/editor/upload-published-view/editedUpload_dialog/reupload.vue",
+      "resources/ts/pages/editor/profile/dialog/editDialog.vue",
+      "resources/ts/pages/editor/assigned-view/validation_dialog/validationRejected.vue",
+      "resources/ts/pages/editor/assigned-view/validation_dialog/validationApproved.vue",
+      "resources/ts/pages/editor/assigned-view/validation_dialog/reasonReject.vue",
+      "resources/ts/pages/client/transaction/dialog/view_payment-dialog.vue",
+      "resources/ts/pages/client/transaction/dialog/upload-dialog.vue",
+      "resources/ts/pages/client/transaction/dialog/paymentDialog.vue",
+      "resources/ts/pages/client/transaction/dialog/edit_payment-dialog.vue",
+      "resources/ts/pages/client/my-request/dialog/viewRequestsRejected.vue",
+      "resources/ts/pages/client/my-request/dialog/viewRequestsPending.vue",
+      "resources/ts/pages/client/my-request/dialog/viewRequestsApproved.vue",
+      "resources/ts/pages/client/my-request/dialog/reupload.vue",
+      "resources/ts/pages/apps/invoice/list/index.vue",
+      "resources/ts/pages/apps/invoice/add/index.vue",
+      "resources/ts/pages/admin/summary/print/paidPrintDialog.vue",
+      "resources/ts/pages/admin/services_&_payment/print/servicesPrintDialog.vue",
+      "resources/ts/pages/admin/services_&_payment/print/paymentPrintDialog.vue",
+      "resources/ts/pages/admin/services_&_payment/dialog/edit_services-dialog.vue",
+      "resources/ts/pages/admin/services_&_payment/dialog/edit_payment_method-dialog.vue",
+      "resources/ts/pages/admin/services_&_payment/dialog/addservices-dialog.vue",
+      "resources/ts/pages/admin/services_&_payment/dialog/addpayment-dialog.vue",
+      "resources/ts/pages/admin/request/RequestDialog/view_request-dialog.vue",
+      "resources/ts/pages/admin/request/RequestDialog/validationRejected.vue",
+      "resources/ts/pages/admin/request/RequestDialog/validationApproved.vue",
+      "resources/ts/pages/admin/request/RequestDialog/reupload.vue",
+      "resources/ts/pages/admin/request/RequestDialog/reject_request-dialog.vue",
+      "resources/ts/pages/admin/request/RequestDialog/approve_request-dialog.vue",
+      "resources/ts/pages/admin/request/PaidDialog/view_paid-dialog.vue",
+      "resources/ts/pages/admin/request/PaidDialog/validationRejected.vue",
+      "resources/ts/pages/admin/request/PaidDialog/validationApproved.vue",
+      "resources/ts/pages/admin/request/PaidDialog/reject_paid-dialog.vue",
+      "resources/ts/pages/admin/request/PaidDialog/approve_paid-dialog.vue",
+      "resources/ts/pages/admin/request/editDialog/editEditorDialog.vue",
+      "resources/ts/pages/admin/published/print/publishedPrintDialog.vue",
+      "resources/ts/pages/admin/editor/print/editorPrintDialog.vue",
+      "resources/ts/pages/admin/editor/dialog/edit_editor-dialog.vue",
+      "resources/ts/pages/admin/editor/dialog/disabled-dialog.vue",
+      "resources/ts/pages/admin/editor/dialog/add_editor-dialog.vue",
+      "resources/ts/pages/admin/editor/dialog/active-dialog.vue",
+      "resources/ts/pages/admin/client/print/clientPrintDialog.vue",
+      "resources/ts/pages/admin/client/dialog/disabled-dialog.vue",
+      "resources/ts/pages/admin/client/dialog/active-dialog.vue",
+      "resources/ts/pages/ViewProfile/dialog/editDialog.vue",
+      "resources/ts/pages/editor/setup-password_Dialog/reset-password.vue",
+      "resources/ts/pages/editor/publish/upload_documents.vue",
+      "resources/ts/pages/editor/print/publishedPrintDialog.vue",
+      "resources/ts/pages/editor/print/assignedPrintDialog.vue",
+      "resources/ts/pages/dashboard/chartjs/types.d.ts",
+      "resources/ts/pages/dashboard/chartjs/ChartJsScatterChart.vue",
+      "resources/ts/pages/dashboard/chartjs/ChartJsRadarChart.vue",
+      "resources/ts/pages/dashboard/chartjs/ChartJsPolarAreaChart.vue",
+      "resources/ts/pages/dashboard/chartjs/ChartJsLineChart.vue",
+      "resources/ts/pages/dashboard/chartjs/ChartJsLineAreaChart.vue",
+      "resources/ts/pages/dashboard/chartjs/ChartJsHorizontalBarChart.vue",
+      "resources/ts/pages/dashboard/chartjs/ChartJsBubbleChart.vue",
+      "resources/ts/pages/dashboard/chartjs/ChartJsBarChart.vue",
+      "resources/ts/pages/dashboard/chartjs/chartjs.vue",
+      "resources/ts/pages/dashboard/chartjs/apex-chart.vue",
+      "resources/ts/pages/dashboard/apex-chart/types.d.ts",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartStocksPrices.vue",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartStatistics.vue",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartNewTechnologiesData.vue",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartMobileComparison.vue",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartHorizontalBar.vue",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartExpenseRatio.vue",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartDataScience.vue",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartDailySalesStates.vue",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartBalance.vue",
+      "resources/ts/pages/dashboard/apex-chart/ApexChartAreaChart.vue",
+      "resources/ts/pages/client/transaction/upload-journal.vue",
+      "resources/ts/pages/client/transaction/payment.vue",
+      "resources/ts/pages/client/publish_journal/download_docs.vue",
+      "resources/ts/pages/client/my-request/rejected.vue",
+      "resources/ts/pages/client/my-request/pending.vue",
+      "resources/ts/pages/client/my-request/approved.vue",
+      "resources/ts/pages/admin/summary/salesReport.vue",
+      "resources/ts/pages/admin/summary/paidList.vue",
+      "resources/ts/pages/admin/settings/AccountSettings.vue",
+      "resources/ts/pages/admin/services_&_payment/services.vue",
+      "resources/ts/pages/admin/services_&_payment/payment_method.vue",
+      "resources/ts/pages/admin/request/uploaded_journal.vue",
+      "resources/ts/pages/admin/request/paid_accounts.vue",
+      "resources/ts/pages/admin/published/publishedJournal.vue",
+      "resources/ts/pages/admin/editor/editorList.vue",
+      "resources/ts/pages/admin/client/clientList.vue",
+      "resources/ts/pages/admin/approved_editor/approved_for_editing.vue",
+      "resources/ts/pages/editor/published_journals.vue",
+      "resources/ts/pages/editor/approved_documents.vue",
+      "resources/ts/pages/client/progress_request.vue",
+      "resources/ts/pages/under-maintenance.vue",
+      "resources/ts/pages/second-page.vue",
+      "resources/ts/pages/preview-image.vue",
+      "resources/ts/pages/not-authorized.vue",
+      "resources/ts/pages/login-editor.vue",
+      "resources/ts/pages/login-client.vue",
+      "resources/ts/pages/home-page.vue",
+      "resources/ts/pages/dialog.vue",
+      "resources/ts/pages/[...all].vue",
+      "resources/ts/pages/ViewProfile/[id].vue",
+      "resources/ts/pages/admin/settings/[tab].vue",
+      "resources/ts/pages/editor/assigned-view/[id].vue",
+      "resources/ts/pages/editor/upload-published-view/[id].vue",
+      "resources/ts/pages/admin/client/view/[id].vue",
+      "resources/ts/pages/admin/editor/view/[id].vue",
+      "resources/ts/pages/admin/profile/ViewProfile/[id].vue",
+      "resources/ts/pages/apps/invoice/edit/[id].vue",
+      "resources/ts/pages/apps/invoice/preview/[id].vue",
+      "resources/ts/pages/client/profile/ViewProfile/[id].vue",
+      "resources/ts/pages/client/publish_journal/download-view/[id].vue",
+      "resources/ts/pages/editor/profile/ViewProfile/[id].vue",
+      "resources/ts/pages/admin/request/RequestDialog/approved-request/[id].vue",
+      "resources/ts/pages/admin/request/RequestDialog/view-request/[id].vue"
+    ],
+    "css": [
+      "assets/main.57b2d79e.css"
+    ],
+    "assets": [
+      "assets/avatar-1.129659bb.png",
+      "assets/avatar-2.11d6be6e.png",
+      "assets/avatar-3.47317f35.png",
+      "assets/avatar-4.b0163f21.png",
+      "assets/avatar-5.d340221a.png",
+      "assets/avatar-6.c56877f3.png",
+      "assets/avatar-7.644db279.png",
+      "assets/avatar-8.e4ad8d8c.png",
+      "assets/discord.b6c4f85c.svg",
+      "assets/gift.ad8d4753.svg",
+      "assets/keyboard.c13da4be.svg",
+      "assets/laptop.4918cce9.svg",
+      "assets/lightbulb.29b8c1c7.svg",
+      "assets/rocket.1da4fb0a.svg",
+      "assets/avatar-15.e6f6c08b.png",
+      "assets/event.20524c87.png",
+      "assets/figma.31d0d56c.png",
+      "assets/html5.8c2f234c.png",
+      "assets/react.ad5344b4.png",
+      "assets/social.58c5c2e2.png",
+      "assets/support.bb003e95.png",
+      "assets/twitter.6d7297ba.png",
+      "assets/vue.df3e31df.png",
+      "assets/xd.53f1173b.png",
+      "assets/user-profile-header-bg.5dda7b2a.png",
+      "assets/txt.3c29a127.png",
+      "assets/xls.7248355c.png",
+      "assets/figma-label.05da7e6a.png",
+      "assets/html-label.e57f06f4.png",
+      "assets/react-label.8067a042.png",
+      "assets/sketch-label.a492565a.png",
+      "assets/social-label.cd6ee135.png",
+      "assets/vue-label.d75c90b8.png",
+      "assets/xd-label.9621d2a8.png",
+      "assets/DITADS Logo_PNG.6072795d.png",
+      "assets/auth-v2-verify-email-illustration-dark.d9608fa7.png",
+      "assets/misc-under-maintenance.ab2b667a.png",
+      "assets/logos.00c35d1a.png",
+      "assets/no-data-found.4d023ded.png",
+      "assets/auth-v2-login-illustration-bordered-dark.a595a9b7.png",
+      "assets/auth-v2-login-illustration-bordered-light.47ee3625.png",
+      "assets/auth-v2-login-illustration-dark.0878e8b9.png",
+      "assets/auth-v2-login-illustration-light.d1fd488d.png",
+      "assets/misc-mask-dark.d10426f0.png",
+      "assets/misc-mask-light.d25607d4.png"
+    ]
+  },
+  "_webfontloader.b777d690.js": {
+    "file": "assets/webfontloader.b777d690.js",
+    "isDynamicEntry": true
+  },
+  "resources/ts/layouts/blank.vue": {
+    "file": "assets/blank.e01ade62.js",
+    "src": "resources/ts/layouts/blank.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/blank.3fac9ebf.css"
+    ]
+  },
+  "resources/ts/layouts/components/change_password.vue": {
+    "file": "assets/change_password.e23115a9.js",
+    "src": "resources/ts/layouts/components/change_password.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_change_password.vue_vue_type_style_index_0_lang.f6979f95.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_change_password.vue_vue_type_style_index_0_lang.f6979f95.js": {
+    "file": "assets/change_password.vue_vue_type_style_index_0_lang.f6979f95.js",
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/change_password.3e959b1f.css"
+    ]
+  },
+  "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js": {
+    "file": "assets/DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/layouts/components/DefaultLayoutWithHorizontalNav.vue": {
+    "file": "assets/DefaultLayoutWithHorizontalNav.59b41ac0.js",
+    "src": "resources/ts/layouts/components/DefaultLayoutWithHorizontalNav.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "resources/ts/layouts/components/Footer.vue",
+      "_NavbarThemeSwitcher.vue_vue_type_script_setup_true_lang.b9d4459d.js",
+      "_UserProfile.vue_vue_type_script_setup_true_lang.27cc971f.js",
+      "_NavBarNotifications.vue_vue_type_script_setup_true_lang.6c31fe22.js",
+      "_change_password.vue_vue_type_style_index_0_lang.f6979f95.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VBadge.2d4e0ef5.js",
+      "_formatters.6aea8434.js"
+    ]
+  },
+  "resources/ts/layouts/components/Footer.vue": {
+    "file": "assets/Footer.ebfbbebd.js",
+    "src": "resources/ts/layouts/components/Footer.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "_NavbarThemeSwitcher.vue_vue_type_script_setup_true_lang.b9d4459d.js": {
+    "file": "assets/NavbarThemeSwitcher.vue_vue_type_script_setup_true_lang.b9d4459d.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "_UserProfile.vue_vue_type_script_setup_true_lang.27cc971f.js": {
+    "file": "assets/UserProfile.vue_vue_type_script_setup_true_lang.27cc971f.js",
+    "imports": [
+      "resources/ts/main.ts",
+      "_change_password.vue_vue_type_style_index_0_lang.f6979f95.js",
+      "_VBadge.2d4e0ef5.js"
+    ]
+  },
+  "_NavBarNotifications.vue_vue_type_script_setup_true_lang.6c31fe22.js": {
+    "file": "assets/NavBarNotifications.vue_vue_type_script_setup_true_lang.6c31fe22.js",
+    "imports": [
+      "resources/ts/main.ts",
+      "_formatters.6aea8434.js",
+      "_VBadge.2d4e0ef5.js"
+    ],
+    "css": [
+      "assets/NavBarNotifications.2990782f.css"
+    ],
+    "assets": [
+      "assets/DITADS Logo_PNG.6072795d.png"
+    ]
+  },
+  "_VBadge.2d4e0ef5.js": {
+    "file": "assets/VBadge.2d4e0ef5.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/VBadge.e2a37be5.css"
+    ]
+  },
+  "_formatters.6aea8434.js": {
+    "file": "assets/formatters.6aea8434.js"
+  },
+  "resources/ts/layouts/components/DefaultLayoutWithVerticalNav.vue": {
+    "file": "assets/DefaultLayoutWithVerticalNav.127ac3fb.js",
+    "src": "resources/ts/layouts/components/DefaultLayoutWithVerticalNav.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "resources/ts/layouts/components/Footer.vue",
+      "_NavbarThemeSwitcher.vue_vue_type_script_setup_true_lang.b9d4459d.js",
+      "_UserProfile.vue_vue_type_script_setup_true_lang.27cc971f.js",
+      "_NavBarNotifications.vue_vue_type_script_setup_true_lang.6c31fe22.js",
+      "_change_password.vue_vue_type_style_index_0_lang.f6979f95.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VBadge.2d4e0ef5.js",
+      "_formatters.6aea8434.js"
+    ]
+  },
+  "resources/ts/layouts/components/NavBarI18n.vue": {
+    "file": "assets/NavBarI18n.69495059.js",
+    "src": "resources/ts/layouts/components/NavBarI18n.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/layouts/components/NavBarNotifications.vue": {
+    "file": "assets/NavBarNotifications.9390ef22.js",
+    "src": "resources/ts/layouts/components/NavBarNotifications.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_NavBarNotifications.vue_vue_type_script_setup_true_lang.6c31fe22.js",
+      "resources/ts/main.ts",
+      "_formatters.6aea8434.js",
+      "_VBadge.2d4e0ef5.js"
+    ]
+  },
+  "resources/ts/layouts/components/NavbarShortcuts.vue": {
+    "file": "assets/NavbarShortcuts.3bbaec1f.js",
+    "src": "resources/ts/layouts/components/NavbarShortcuts.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/layouts/components/NavbarThemeSwitcher.vue": {
+    "file": "assets/NavbarThemeSwitcher.3284aaed.js",
+    "src": "resources/ts/layouts/components/NavbarThemeSwitcher.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_NavbarThemeSwitcher.vue_vue_type_script_setup_true_lang.b9d4459d.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/layouts/components/NavSearchBar.vue": {
+    "file": "assets/NavSearchBar.4dabf470.js",
+    "src": "resources/ts/layouts/components/NavSearchBar.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "dynamicImports": [
+      "resources/ts/@core/components/AppBarSearch.vue"
+    ],
+    "css": [
+      "assets/NavSearchBar.539cc712.css"
+    ]
+  },
+  "resources/ts/layouts/components/UserProfile.vue": {
+    "file": "assets/UserProfile.b305ca28.js",
+    "src": "resources/ts/layouts/components/UserProfile.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_UserProfile.vue_vue_type_script_setup_true_lang.27cc971f.js",
+      "resources/ts/main.ts",
+      "_change_password.vue_vue_type_style_index_0_lang.f6979f95.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VBadge.2d4e0ef5.js"
+    ]
+  },
+  "resources/ts/pages/client/profile/ViewProfile/dialog/editDialog.vue": {
+    "file": "assets/editDialog.63f163eb.js",
+    "src": "resources/ts/pages/client/profile/ViewProfile/dialog/editDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_editDialog.vue_vue_type_script_setup_true_lang.936dfb2c.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ]
+  },
+  "_editDialog.vue_vue_type_script_setup_true_lang.936dfb2c.js": {
+    "file": "assets/editDialog.vue_vue_type_script_setup_true_lang.936dfb2c.js",
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ]
+  },
+  "_VFileInput.a98189c2.js": {
+    "file": "assets/VFileInput.a98189c2.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/VFileInput.0ec63f7b.css"
+    ]
+  },
+  "resources/ts/pages/editor/upload-published-view/validation_dialog/released.vue": {
+    "file": "assets/released.7e699ce3.js",
+    "src": "resources/ts/pages/editor/upload-published-view/validation_dialog/released.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_released.vue_vue_type_script_setup_true_lang.3113d485.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_released.vue_vue_type_script_setup_true_lang.3113d485.js": {
+    "file": "assets/released.vue_vue_type_script_setup_true_lang.3113d485.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/editor/upload-published-view/editedUpload_dialog/reupload.vue": {
+    "file": "assets/reupload.1ffde568.js",
+    "src": "resources/ts/pages/editor/upload-published-view/editedUpload_dialog/reupload.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_released.vue_vue_type_script_setup_true_lang.3113d485.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/reupload.5498aa9c.css"
+    ]
+  },
+  "resources/ts/pages/editor/profile/dialog/editDialog.vue": {
+    "file": "assets/editDialog.1f037bef.js",
+    "src": "resources/ts/pages/editor/profile/dialog/editDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_editDialog.vue_vue_type_script_setup_true_lang.c7c123c2.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ]
+  },
+  "_editDialog.vue_vue_type_script_setup_true_lang.c7c123c2.js": {
+    "file": "assets/editDialog.vue_vue_type_script_setup_true_lang.c7c123c2.js",
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ]
+  },
+  "resources/ts/pages/editor/assigned-view/validation_dialog/validationRejected.vue": {
+    "file": "assets/validationRejected.167f306e.js",
+    "src": "resources/ts/pages/editor/assigned-view/validation_dialog/validationRejected.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_validationRejected.vue_vue_type_script_setup_true_lang.497d6e3b.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_validationRejected.vue_vue_type_script_setup_true_lang.497d6e3b.js": {
+    "file": "assets/validationRejected.vue_vue_type_script_setup_true_lang.497d6e3b.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/editor/assigned-view/validation_dialog/validationApproved.vue": {
+    "file": "assets/validationApproved.3d39b752.js",
+    "src": "resources/ts/pages/editor/assigned-view/validation_dialog/validationApproved.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_validationApproved.vue_vue_type_script_setup_true_lang.e65af9e5.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_validationApproved.vue_vue_type_script_setup_true_lang.e65af9e5.js": {
+    "file": "assets/validationApproved.vue_vue_type_script_setup_true_lang.e65af9e5.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/editor/assigned-view/validation_dialog/reasonReject.vue": {
+    "file": "assets/reasonReject.b9f7230a.js",
+    "src": "resources/ts/pages/editor/assigned-view/validation_dialog/reasonReject.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_validationRejected.vue_vue_type_script_setup_true_lang.497d6e3b.js",
+      "_VTextarea.f3ff2a93.js"
+    ],
+    "css": [
+      "assets/reasonReject.aa617b65.css"
+    ]
+  },
+  "_VTextarea.f3ff2a93.js": {
+    "file": "assets/VTextarea.f3ff2a93.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/VTextarea.13bfb6d6.css"
+    ]
+  },
+  "resources/ts/pages/client/transaction/dialog/view_payment-dialog.vue": {
+    "file": "assets/view_payment-dialog.1c0b458c.js",
+    "src": "resources/ts/pages/client/transaction/dialog/view_payment-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/view_payment-dialog.d13b8cf6.css"
+    ]
+  },
+  "resources/ts/pages/client/transaction/dialog/upload-dialog.vue": {
+    "file": "assets/upload-dialog.317103d8.js",
+    "src": "resources/ts/pages/client/transaction/dialog/upload-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/upload-dialog.f84ca678.css"
+    ]
+  },
+  "resources/ts/pages/client/transaction/dialog/paymentDialog.vue": {
+    "file": "assets/paymentDialog.ecf29a46.js",
+    "src": "resources/ts/pages/client/transaction/dialog/paymentDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VTabs.8352486c.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/paymentDialog.eec78c74.css"
+    ]
+  },
+  "_VTabs.8352486c.js": {
+    "file": "assets/VTabs.8352486c.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/VTabs.ce9ce94e.css"
+    ]
+  },
+  "resources/ts/pages/client/transaction/dialog/edit_payment-dialog.vue": {
+    "file": "assets/edit_payment-dialog.1038c777.js",
+    "src": "resources/ts/pages/client/transaction/dialog/edit_payment-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/edit_payment-dialog.0cf75eeb.css"
+    ]
+  },
+  "resources/ts/pages/client/my-request/dialog/viewRequestsRejected.vue": {
+    "file": "assets/viewRequestsRejected.74c563eb.js",
+    "src": "resources/ts/pages/client/my-request/dialog/viewRequestsRejected.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_vue3-pdf-app.umd.bbeacf02.js"
+    ],
+    "css": [
+      "assets/viewRequestsRejected.46447b30.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "_vue3-pdf-app.umd.bbeacf02.js": {
+    "file": "assets/vue3-pdf-app.umd.bbeacf02.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/client/my-request/dialog/viewRequestsPending.vue": {
+    "file": "assets/viewRequestsPending.61036f17.js",
+    "src": "resources/ts/pages/client/my-request/dialog/viewRequestsPending.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_vue3-pdf-app.umd.bbeacf02.js"
+    ],
+    "css": [
+      "assets/viewRequestsPending.f1659b78.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/client/my-request/dialog/viewRequestsApproved.vue": {
+    "file": "assets/viewRequestsApproved.d42fd2ef.js",
+    "src": "resources/ts/pages/client/my-request/dialog/viewRequestsApproved.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_vue3-pdf-app.umd.bbeacf02.js"
+    ],
+    "css": [
+      "assets/viewRequestsApproved.fe99b36f.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/client/my-request/dialog/reupload.vue": {
+    "file": "assets/reupload.4915a905.js",
+    "src": "resources/ts/pages/client/my-request/dialog/reupload.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/reupload.5b2069df.css"
+    ]
+  },
+  "resources/ts/pages/apps/invoice/list/index.vue": {
+    "file": "assets/index.366d14f5.js",
+    "src": "resources/ts/pages/apps/invoice/list/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_useInvoiceStore.b9825797.js",
+      "_formatters.6aea8434.js",
+      "_VTooltip.a2b539db.js"
+    ],
+    "css": [
+      "assets/index.13f6d681.css"
+    ]
+  },
+  "_useInvoiceStore.b9825797.js": {
+    "file": "assets/useInvoiceStore.b9825797.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "_VTooltip.a2b539db.js": {
+    "file": "assets/VTooltip.a2b539db.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/VTooltip.015c631c.css"
+    ]
+  },
+  "resources/ts/pages/apps/invoice/add/index.vue": {
+    "file": "assets/index.9d23b212.js",
+    "src": "resources/ts/pages/apps/invoice/add/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_InvoiceEditable.vue_vue_type_script_setup_true_lang.798a8cd4.js",
+      "resources/ts/main.ts",
+      "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+      "_VTextarea.f3ff2a93.js",
+      "_VTooltip.a2b539db.js",
+      "_useInvoiceStore.b9825797.js"
+    ]
+  },
+  "_InvoiceEditable.vue_vue_type_script_setup_true_lang.798a8cd4.js": {
+    "file": "assets/InvoiceEditable.vue_vue_type_script_setup_true_lang.798a8cd4.js",
+    "imports": [
+      "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+      "resources/ts/main.ts",
+      "_VTextarea.f3ff2a93.js",
+      "_VTooltip.a2b539db.js",
+      "_useInvoiceStore.b9825797.js"
+    ]
+  },
+  "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js": {
+    "file": "assets/AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/AppDateTimePicker.00f3b0ba.css"
+    ]
+  },
+  "resources/ts/pages/admin/summary/print/paidPrintDialog.vue": {
+    "file": "assets/paidPrintDialog.378d95c2.js",
+    "src": "resources/ts/pages/admin/summary/print/paidPrintDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_paidPrintDialog.vue_vue_type_style_index_0_lang.1ca871c0.js",
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_paidPrintDialog.vue_vue_type_style_index_0_lang.1ca871c0.js": {
+    "file": "assets/paidPrintDialog.vue_vue_type_style_index_0_lang.1ca871c0.js",
+    "imports": [
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/paidPrintDialog.46c782a5.css"
+    ]
+  },
+  "_moment.40bc58bf.js": {
+    "file": "assets/moment.40bc58bf.js"
+  },
+  "resources/ts/pages/admin/services_&_payment/print/servicesPrintDialog.vue": {
+    "file": "assets/servicesPrintDialog.de460d40.js",
+    "src": "resources/ts/pages/admin/services_&_payment/print/servicesPrintDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_servicesPrintDialog.vue_vue_type_style_index_0_lang.4b05bf46.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_servicesPrintDialog.vue_vue_type_style_index_0_lang.4b05bf46.js": {
+    "file": "assets/servicesPrintDialog.vue_vue_type_style_index_0_lang.4b05bf46.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/servicesPrintDialog.46c782a5.css"
+    ]
+  },
+  "resources/ts/pages/admin/services_&_payment/print/paymentPrintDialog.vue": {
+    "file": "assets/paymentPrintDialog.c875e50b.js",
+    "src": "resources/ts/pages/admin/services_&_payment/print/paymentPrintDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_paymentPrintDialog.vue_vue_type_style_index_0_lang.22c39d8d.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_paymentPrintDialog.vue_vue_type_style_index_0_lang.22c39d8d.js": {
+    "file": "assets/paymentPrintDialog.vue_vue_type_style_index_0_lang.22c39d8d.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/paymentPrintDialog.46c782a5.css"
+    ]
+  },
+  "resources/ts/pages/admin/services_&_payment/dialog/edit_services-dialog.vue": {
+    "file": "assets/edit_services-dialog.47116a21.js",
+    "src": "resources/ts/pages/admin/services_&_payment/dialog/edit_services-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/edit_services-dialog.70724452.css"
+    ]
+  },
+  "resources/ts/pages/admin/services_&_payment/dialog/edit_payment_method-dialog.vue": {
+    "file": "assets/edit_payment_method-dialog.ba3aec8f.js",
+    "src": "resources/ts/pages/admin/services_&_payment/dialog/edit_payment_method-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/edit_payment_method-dialog.825e35f9.css"
+    ]
+  },
+  "resources/ts/pages/admin/services_&_payment/dialog/addservices-dialog.vue": {
+    "file": "assets/addservices-dialog.e611125b.js",
+    "src": "resources/ts/pages/admin/services_&_payment/dialog/addservices-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/addservices-dialog.a5aaa30f.css"
+    ]
+  },
+  "resources/ts/pages/admin/services_&_payment/dialog/addpayment-dialog.vue": {
+    "file": "assets/addpayment-dialog.14dd550d.js",
+    "src": "resources/ts/pages/admin/services_&_payment/dialog/addpayment-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/addpayment-dialog.5bca54a9.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/RequestDialog/view_request-dialog.vue": {
+    "file": "assets/view_request-dialog.1525e1a5.js",
+    "src": "resources/ts/pages/admin/request/RequestDialog/view_request-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_VTextarea.f3ff2a93.js"
+    ],
+    "css": [
+      "assets/view_request-dialog.a74e2577.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/RequestDialog/validationRejected.vue": {
+    "file": "assets/validationRejected.0d312dc2.js",
+    "src": "resources/ts/pages/admin/request/RequestDialog/validationRejected.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_validationRejected.vue_vue_type_script_setup_true_lang.ec5cc3a1.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_validationRejected.vue_vue_type_script_setup_true_lang.ec5cc3a1.js": {
+    "file": "assets/validationRejected.vue_vue_type_script_setup_true_lang.ec5cc3a1.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/admin/request/RequestDialog/validationApproved.vue": {
+    "file": "assets/validationApproved.5f9c1ad1.js",
+    "src": "resources/ts/pages/admin/request/RequestDialog/validationApproved.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_validationApproved.vue_vue_type_script_setup_true_lang.c3297ce7.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_validationApproved.vue_vue_type_script_setup_true_lang.c3297ce7.js": {
+    "file": "assets/validationApproved.vue_vue_type_script_setup_true_lang.c3297ce7.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/admin/request/RequestDialog/reupload.vue": {
+    "file": "assets/reupload.095e99e9.js",
+    "src": "resources/ts/pages/admin/request/RequestDialog/reupload.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/reupload.8a563eed.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/RequestDialog/reject_request-dialog.vue": {
+    "file": "assets/reject_request-dialog.5210af89.js",
+    "src": "resources/ts/pages/admin/request/RequestDialog/reject_request-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_validationRejected.vue_vue_type_script_setup_true_lang.ec5cc3a1.js",
+      "_VTextarea.f3ff2a93.js"
+    ],
+    "css": [
+      "assets/reject_request-dialog.00e38989.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/RequestDialog/approve_request-dialog.vue": {
+    "file": "assets/approve_request-dialog.74ce6911.js",
+    "src": "resources/ts/pages/admin/request/RequestDialog/approve_request-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_validationApproved.vue_vue_type_script_setup_true_lang.c3297ce7.js",
+      "_vue3-pdf-app.umd.bbeacf02.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/approve_request-dialog.f970de5c.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/PaidDialog/view_paid-dialog.vue": {
+    "file": "assets/view_paid-dialog.8f4e7e5e.js",
+    "src": "resources/ts/pages/admin/request/PaidDialog/view_paid-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/view_paid-dialog.d201534a.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/PaidDialog/validationRejected.vue": {
+    "file": "assets/validationRejected.2408d12a.js",
+    "src": "resources/ts/pages/admin/request/PaidDialog/validationRejected.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_validationRejected.vue_vue_type_script_setup_true_lang.ab352caa.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_validationRejected.vue_vue_type_script_setup_true_lang.ab352caa.js": {
+    "file": "assets/validationRejected.vue_vue_type_script_setup_true_lang.ab352caa.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/admin/request/PaidDialog/validationApproved.vue": {
+    "file": "assets/validationApproved.b8c28ed4.js",
+    "src": "resources/ts/pages/admin/request/PaidDialog/validationApproved.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_validationApproved.vue_vue_type_script_setup_true_lang.85ff558f.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_validationApproved.vue_vue_type_script_setup_true_lang.85ff558f.js": {
+    "file": "assets/validationApproved.vue_vue_type_script_setup_true_lang.85ff558f.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/admin/request/PaidDialog/reject_paid-dialog.vue": {
+    "file": "assets/reject_paid-dialog.4504b58c.js",
+    "src": "resources/ts/pages/admin/request/PaidDialog/reject_paid-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_validationRejected.vue_vue_type_script_setup_true_lang.ab352caa.js",
+      "_VTextarea.f3ff2a93.js"
+    ],
+    "css": [
+      "assets/reject_paid-dialog.5e15c6d2.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/PaidDialog/approve_paid-dialog.vue": {
+    "file": "assets/approve_paid-dialog.ba0c1a1e.js",
+    "src": "resources/ts/pages/admin/request/PaidDialog/approve_paid-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_validationApproved.vue_vue_type_script_setup_true_lang.85ff558f.js"
+    ],
+    "css": [
+      "assets/approve_paid-dialog.3a287b8e.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/editDialog/editEditorDialog.vue": {
+    "file": "assets/editEditorDialog.a3a20fb3.js",
+    "src": "resources/ts/pages/admin/request/editDialog/editEditorDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_editEditorDialog.vue_vue_type_script_setup_true_lang.f233aee0.js",
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js"
+    ]
+  },
+  "_editEditorDialog.vue_vue_type_script_setup_true_lang.f233aee0.js": {
+    "file": "assets/editEditorDialog.vue_vue_type_script_setup_true_lang.f233aee0.js",
+    "imports": [
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js"
+    ]
+  },
+  "resources/ts/pages/admin/published/print/publishedPrintDialog.vue": {
+    "file": "assets/publishedPrintDialog.dc7650f1.js",
+    "src": "resources/ts/pages/admin/published/print/publishedPrintDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_publishedPrintDialog.vue_vue_type_style_index_0_lang.dbc392fe.js",
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_publishedPrintDialog.vue_vue_type_style_index_0_lang.dbc392fe.js": {
+    "file": "assets/publishedPrintDialog.vue_vue_type_style_index_0_lang.dbc392fe.js",
+    "imports": [
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/publishedPrintDialog.46c782a5.css"
+    ]
+  },
+  "resources/ts/pages/admin/editor/print/editorPrintDialog.vue": {
+    "file": "assets/editorPrintDialog.188918aa.js",
+    "src": "resources/ts/pages/admin/editor/print/editorPrintDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_editorPrintDialog.vue_vue_type_style_index_0_lang.ee7e9afb.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_editorPrintDialog.vue_vue_type_style_index_0_lang.ee7e9afb.js": {
+    "file": "assets/editorPrintDialog.vue_vue_type_style_index_0_lang.ee7e9afb.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/editorPrintDialog.46c782a5.css"
+    ]
+  },
+  "resources/ts/pages/admin/editor/dialog/edit_editor-dialog.vue": {
+    "file": "assets/edit_editor-dialog.b891d5ee.js",
+    "src": "resources/ts/pages/admin/editor/dialog/edit_editor-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_edit_editor-dialog.vue_vue_type_script_setup_true_lang.578c8997.js",
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js"
+    ]
+  },
+  "_edit_editor-dialog.vue_vue_type_script_setup_true_lang.578c8997.js": {
+    "file": "assets/edit_editor-dialog.vue_vue_type_script_setup_true_lang.578c8997.js",
+    "imports": [
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js"
+    ]
+  },
+  "resources/ts/pages/admin/editor/dialog/disabled-dialog.vue": {
+    "file": "assets/disabled-dialog.54a207d4.js",
+    "src": "resources/ts/pages/admin/editor/dialog/disabled-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_disabled-dialog.vue_vue_type_script_setup_true_lang.93bc212e.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_disabled-dialog.vue_vue_type_script_setup_true_lang.93bc212e.js": {
+    "file": "assets/disabled-dialog.vue_vue_type_script_setup_true_lang.93bc212e.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/admin/editor/dialog/add_editor-dialog.vue": {
+    "file": "assets/add_editor-dialog.d63500c6.js",
+    "src": "resources/ts/pages/admin/editor/dialog/add_editor-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_add_editor-dialog.vue_vue_type_script_setup_true_lang.6ff778d5.js",
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js"
+    ]
+  },
+  "_add_editor-dialog.vue_vue_type_script_setup_true_lang.6ff778d5.js": {
+    "file": "assets/add_editor-dialog.vue_vue_type_script_setup_true_lang.6ff778d5.js",
+    "imports": [
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js"
+    ]
+  },
+  "resources/ts/pages/admin/editor/dialog/active-dialog.vue": {
+    "file": "assets/active-dialog.0f3ef4df.js",
+    "src": "resources/ts/pages/admin/editor/dialog/active-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_active-dialog.vue_vue_type_script_setup_true_lang.45fa34a7.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_active-dialog.vue_vue_type_script_setup_true_lang.45fa34a7.js": {
+    "file": "assets/active-dialog.vue_vue_type_script_setup_true_lang.45fa34a7.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/admin/client/print/clientPrintDialog.vue": {
+    "file": "assets/clientPrintDialog.f4c0aaf5.js",
+    "src": "resources/ts/pages/admin/client/print/clientPrintDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_clientPrintDialog.vue_vue_type_style_index_0_lang.dfa39b32.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_clientPrintDialog.vue_vue_type_style_index_0_lang.dfa39b32.js": {
+    "file": "assets/clientPrintDialog.vue_vue_type_style_index_0_lang.dfa39b32.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/clientPrintDialog.46c782a5.css"
+    ]
+  },
+  "resources/ts/pages/admin/client/dialog/disabled-dialog.vue": {
+    "file": "assets/disabled-dialog.6df2288e.js",
+    "src": "resources/ts/pages/admin/client/dialog/disabled-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_disabled-dialog.vue_vue_type_script_setup_true_lang.be09f50b.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_disabled-dialog.vue_vue_type_script_setup_true_lang.be09f50b.js": {
+    "file": "assets/disabled-dialog.vue_vue_type_script_setup_true_lang.be09f50b.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/admin/client/dialog/active-dialog.vue": {
+    "file": "assets/active-dialog.91019a7f.js",
+    "src": "resources/ts/pages/admin/client/dialog/active-dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_active-dialog.vue_vue_type_script_setup_true_lang.674ad4f2.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_active-dialog.vue_vue_type_script_setup_true_lang.674ad4f2.js": {
+    "file": "assets/active-dialog.vue_vue_type_script_setup_true_lang.674ad4f2.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/ViewProfile/dialog/editDialog.vue": {
+    "file": "assets/editDialog.3f479a07.js",
+    "src": "resources/ts/pages/ViewProfile/dialog/editDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_editDialog.vue_vue_type_script_setup_true_lang.b5a4b283.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ]
+  },
+  "_editDialog.vue_vue_type_script_setup_true_lang.b5a4b283.js": {
+    "file": "assets/editDialog.vue_vue_type_script_setup_true_lang.b5a4b283.js",
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts",
+      "_VFileInput.a98189c2.js"
+    ]
+  },
+  "resources/ts/pages/editor/setup-password_Dialog/reset-password.vue": {
+    "file": "assets/reset-password.486f5c1a.js",
+    "src": "resources/ts/pages/editor/setup-password_Dialog/reset-password.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/editor/publish/upload_documents.vue": {
+    "file": "assets/upload_documents.3ca27858.js",
+    "src": "resources/ts/pages/editor/publish/upload_documents.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts",
+      "_jspdf.plugin.autotable.5f00a359.js"
+    ],
+    "css": [
+      "assets/upload_documents.2313fd2b.css"
+    ]
+  },
+  "_jspdf.plugin.autotable.5f00a359.js": {
+    "file": "assets/jspdf.plugin.autotable.5f00a359.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "dynamicImports": [
+      "node_modules/html2canvas/dist/html2canvas.esm.js",
+      "node_modules/dompurify/dist/purify.es.js",
+      "node_modules/canvg/lib/index.es.js"
+    ]
+  },
+  "resources/ts/pages/editor/print/publishedPrintDialog.vue": {
+    "file": "assets/publishedPrintDialog.797a5b49.js",
+    "src": "resources/ts/pages/editor/print/publishedPrintDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_publishedPrintDialog.vue_vue_type_style_index_0_lang.f9bd4c4d.js",
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_publishedPrintDialog.vue_vue_type_style_index_0_lang.f9bd4c4d.js": {
+    "file": "assets/publishedPrintDialog.vue_vue_type_style_index_0_lang.f9bd4c4d.js",
+    "imports": [
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/publishedPrintDialog.46c782a5.css"
+    ]
+  },
+  "resources/ts/pages/editor/print/assignedPrintDialog.vue": {
+    "file": "assets/assignedPrintDialog.21989481.js",
+    "src": "resources/ts/pages/editor/print/assignedPrintDialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_assignedPrintDialog.vue_vue_type_style_index_0_lang.930d56ae.js",
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "_assignedPrintDialog.vue_vue_type_style_index_0_lang.930d56ae.js": {
+    "file": "assets/assignedPrintDialog.vue_vue_type_style_index_0_lang.930d56ae.js",
+    "imports": [
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/assignedPrintDialog.46c782a5.css"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/types.d.ts": {
+    "file": "assets/types.d.23f823dd.js",
+    "src": "resources/ts/pages/dashboard/chartjs/types.d.ts",
+    "isDynamicEntry": true
+  },
+  "resources/ts/pages/dashboard/chartjs/ChartJsScatterChart.vue": {
+    "file": "assets/ChartJsScatterChart.c6e1a73a.js",
+    "src": "resources/ts/pages/dashboard/chartjs/ChartJsScatterChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/ChartJsRadarChart.vue": {
+    "file": "assets/ChartJsRadarChart.5a41ecec.js",
+    "src": "resources/ts/pages/dashboard/chartjs/ChartJsRadarChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/ChartJsPolarAreaChart.vue": {
+    "file": "assets/ChartJsPolarAreaChart.f3d509c7.js",
+    "src": "resources/ts/pages/dashboard/chartjs/ChartJsPolarAreaChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/ChartJsPolarAreaChart.ff0ee56f.css"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/ChartJsLineChart.vue": {
+    "file": "assets/ChartJsLineChart.292834d2.js",
+    "src": "resources/ts/pages/dashboard/chartjs/ChartJsLineChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_LineChart.b1e30a46.js"
+    ]
+  },
+  "_LineChart.b1e30a46.js": {
+    "file": "assets/LineChart.b1e30a46.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/ChartJsLineAreaChart.vue": {
+    "file": "assets/ChartJsLineAreaChart.4258dc51.js",
+    "src": "resources/ts/pages/dashboard/chartjs/ChartJsLineAreaChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_LineChart.b1e30a46.js"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/ChartJsHorizontalBarChart.vue": {
+    "file": "assets/ChartJsHorizontalBarChart.ea7a95d3.js",
+    "src": "resources/ts/pages/dashboard/chartjs/ChartJsHorizontalBarChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/ChartJsBubbleChart.vue": {
+    "file": "assets/ChartJsBubbleChart.90f41a6e.js",
+    "src": "resources/ts/pages/dashboard/chartjs/ChartJsBubbleChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/ChartJsBarChart.vue": {
+    "file": "assets/ChartJsBarChart.3b2c6f11.js",
+    "src": "resources/ts/pages/dashboard/chartjs/ChartJsBarChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/chartjs.vue": {
+    "file": "assets/chartjs.548ea766.js",
+    "src": "resources/ts/pages/dashboard/chartjs/chartjs.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/chartjs.70af97fb.css"
+    ]
+  },
+  "resources/ts/pages/dashboard/chartjs/apex-chart.vue": {
+    "file": "assets/apex-chart.3d21b70c.js",
+    "src": "resources/ts/pages/dashboard/chartjs/apex-chart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/apex-chart.c048d4a1.css"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/types.d.ts": {
+    "file": "assets/types.d.23f823dd2.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/types.d.ts",
+    "isDynamicEntry": true
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartStocksPrices.vue": {
+    "file": "assets/ApexChartStocksPrices.800f92d6.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartStocksPrices.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartStatistics.vue": {
+    "file": "assets/ApexChartStatistics.8d61a6c1.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartStatistics.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartNewTechnologiesData.vue": {
+    "file": "assets/ApexChartNewTechnologiesData.04f74638.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartNewTechnologiesData.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartMobileComparison.vue": {
+    "file": "assets/ApexChartMobileComparison.279da11c.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartMobileComparison.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartHorizontalBar.vue": {
+    "file": "assets/ApexChartHorizontalBar.f65aa698.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartHorizontalBar.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartExpenseRatio.vue": {
+    "file": "assets/ApexChartExpenseRatio.8cc7e5d3.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartExpenseRatio.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartDataScience.vue": {
+    "file": "assets/ApexChartDataScience.9eeac908.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartDataScience.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartDailySalesStates.vue": {
+    "file": "assets/ApexChartDailySalesStates.103ffc57.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartDailySalesStates.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartBalance.vue": {
+    "file": "assets/ApexChartBalance.eac4ca96.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartBalance.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/dashboard/apex-chart/ApexChartAreaChart.vue": {
+    "file": "assets/ApexChartAreaChart.37e919a6.js",
+    "src": "resources/ts/pages/dashboard/apex-chart/ApexChartAreaChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/client/transaction/upload-journal.vue": {
+    "file": "assets/upload-journal.d1f6e69e.js",
+    "src": "resources/ts/pages/client/transaction/upload-journal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/client/transaction/payment.vue": {
+    "file": "assets/payment.0671d9a6.js",
+    "src": "resources/ts/pages/client/transaction/payment.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "resources/ts/pages/client/transaction/dialog/edit_payment-dialog.vue",
+      "resources/ts/pages/client/transaction/dialog/paymentDialog.vue",
+      "resources/ts/pages/client/transaction/dialog/upload-dialog.vue",
+      "resources/ts/pages/client/transaction/dialog/view_payment-dialog.vue",
+      "_moment.40bc58bf.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VFileInput.a98189c2.js",
+      "_VTabs.8352486c.js"
+    ],
+    "css": [
+      "assets/payment.14b1648c.css"
+    ]
+  },
+  "resources/ts/pages/client/publish_journal/download_docs.vue": {
+    "file": "assets/download_docs.a67cf980.js",
+    "src": "resources/ts/pages/client/publish_journal/download_docs.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+      "resources/ts/main.ts",
+      "_moment.40bc58bf.js",
+      "_jspdf.plugin.autotable.5f00a359.js"
+    ],
+    "css": [
+      "assets/download_docs.9d817fad.css"
+    ]
+  },
+  "resources/ts/pages/client/my-request/rejected.vue": {
+    "file": "assets/rejected.26fdfa4c.js",
+    "src": "resources/ts/pages/client/my-request/rejected.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "resources/ts/pages/client/my-request/dialog/viewRequestsRejected.vue",
+      "resources/ts/pages/client/my-request/dialog/reupload.vue",
+      "_moment.40bc58bf.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_vue3-pdf-app.umd.bbeacf02.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/rejected.f9d6d9ac.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/client/my-request/pending.vue": {
+    "file": "assets/pending.5612a855.js",
+    "src": "resources/ts/pages/client/my-request/pending.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_moment.40bc58bf.js",
+      "resources/ts/pages/client/my-request/dialog/viewRequestsPending.vue",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_vue3-pdf-app.umd.bbeacf02.js"
+    ],
+    "css": [
+      "assets/pending.f87b75f7.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/client/my-request/approved.vue": {
+    "file": "assets/approved.70057f88.js",
+    "src": "resources/ts/pages/client/my-request/approved.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "resources/ts/pages/client/my-request/dialog/viewRequestsApproved.vue",
+      "_moment.40bc58bf.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_vue3-pdf-app.umd.bbeacf02.js"
+    ],
+    "css": [
+      "assets/approved.5a160871.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/admin/summary/salesReport.vue": {
+    "file": "assets/salesReport.711bec49.js",
+    "src": "resources/ts/pages/admin/summary/salesReport.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+      "_moment.40bc58bf.js",
+      "_excelPaidList.6a4350d3.js",
+      "_jspdf.plugin.autotable.5f00a359.js",
+      "_paidPrintDialog.vue_vue_type_style_index_0_lang.1ca871c0.js",
+      "_exceljs.min.6ef7067d.js"
+    ],
+    "css": [
+      "assets/salesReport.b52934e7.css"
+    ]
+  },
+  "_excelPaidList.6a4350d3.js": {
+    "file": "assets/excelPaidList.6a4350d3.js",
+    "imports": [
+      "_exceljs.min.6ef7067d.js"
+    ]
+  },
+  "_exceljs.min.6ef7067d.js": {
+    "file": "assets/exceljs.min.6ef7067d.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/admin/summary/paidList.vue": {
+    "file": "assets/paidList.9658b0b8.js",
+    "src": "resources/ts/pages/admin/summary/paidList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts",
+      "_jspdf.plugin.autotable.5f00a359.js",
+      "_paidPrintDialog.vue_vue_type_style_index_0_lang.1ca871c0.js"
+    ],
+    "css": [
+      "assets/paidList.1ac77562.css"
+    ]
+  },
+  "resources/ts/pages/admin/settings/AccountSettings.vue": {
+    "file": "assets/AccountSettings.acbcb8b3.js",
+    "src": "resources/ts/pages/admin/settings/AccountSettings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/admin/services_&_payment/services.vue": {
+    "file": "assets/services.2d22b222.js",
+    "src": "resources/ts/pages/admin/services_&_payment/services.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "resources/ts/pages/admin/services_&_payment/dialog/addservices-dialog.vue",
+      "resources/ts/pages/admin/services_&_payment/dialog/edit_services-dialog.vue",
+      "_jspdf.plugin.autotable.5f00a359.js",
+      "_servicesPrintDialog.vue_vue_type_style_index_0_lang.4b05bf46.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js"
+    ],
+    "css": [
+      "assets/services.2a614b2d.css"
+    ]
+  },
+  "resources/ts/pages/admin/services_&_payment/payment_method.vue": {
+    "file": "assets/payment_method.64c10f84.js",
+    "src": "resources/ts/pages/admin/services_&_payment/payment_method.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "resources/ts/pages/admin/services_&_payment/dialog/addpayment-dialog.vue",
+      "resources/ts/pages/admin/services_&_payment/dialog/edit_payment_method-dialog.vue",
+      "_jspdf.plugin.autotable.5f00a359.js",
+      "_paymentPrintDialog.vue_vue_type_style_index_0_lang.22c39d8d.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/payment_method.99cd3643.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/uploaded_journal.vue": {
+    "file": "assets/uploaded_journal.19f41001.js",
+    "src": "resources/ts/pages/admin/request/uploaded_journal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_moment.40bc58bf.js",
+      "_editEditorDialog.vue_vue_type_script_setup_true_lang.f233aee0.js",
+      "resources/ts/pages/admin/request/RequestDialog/reject_request-dialog.vue",
+      "_VTabs.8352486c.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_validationRejected.vue_vue_type_script_setup_true_lang.ec5cc3a1.js",
+      "_VTextarea.f3ff2a93.js"
+    ],
+    "css": [
+      "assets/uploaded_journal.46482caf.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/paid_accounts.vue": {
+    "file": "assets/paid_accounts.124aaed7.js",
+    "src": "resources/ts/pages/admin/request/paid_accounts.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_moment.40bc58bf.js",
+      "resources/ts/pages/admin/request/PaidDialog/approve_paid-dialog.vue",
+      "resources/ts/pages/admin/request/PaidDialog/reject_paid-dialog.vue",
+      "resources/ts/pages/admin/request/PaidDialog/view_paid-dialog.vue",
+      "_VTabs.8352486c.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_validationApproved.vue_vue_type_script_setup_true_lang.85ff558f.js",
+      "_validationRejected.vue_vue_type_script_setup_true_lang.ab352caa.js",
+      "_VTextarea.f3ff2a93.js"
+    ],
+    "css": [
+      "assets/paid_accounts.19866592.css"
+    ]
+  },
+  "resources/ts/pages/admin/published/publishedJournal.vue": {
+    "file": "assets/publishedJournal.071f3fdb.js",
+    "src": "resources/ts/pages/admin/published/publishedJournal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+      "resources/ts/main.ts",
+      "_moment.40bc58bf.js",
+      "_excelPaidList.6a4350d3.js",
+      "_jspdf.plugin.autotable.5f00a359.js",
+      "_publishedPrintDialog.vue_vue_type_style_index_0_lang.dbc392fe.js",
+      "_LineChart.b1e30a46.js",
+      "_exceljs.min.6ef7067d.js"
+    ],
+    "css": [
+      "assets/publishedJournal.236b78ed.css"
+    ]
+  },
+  "resources/ts/pages/admin/editor/editorList.vue": {
+    "file": "assets/editorList.71958ff8.js",
+    "src": "resources/ts/pages/admin/editor/editorList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_jspdf.plugin.autotable.5f00a359.js",
+      "_excellClient.3f24051c.js",
+      "_add_editor-dialog.vue_vue_type_script_setup_true_lang.6ff778d5.js",
+      "_edit_editor-dialog.vue_vue_type_script_setup_true_lang.578c8997.js",
+      "_editorPrintDialog.vue_vue_type_style_index_0_lang.ee7e9afb.js",
+      "_active-dialog.vue_vue_type_script_setup_true_lang.45fa34a7.js",
+      "_disabled-dialog.vue_vue_type_script_setup_true_lang.93bc212e.js",
+      "_exceljs.min.6ef7067d.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js"
+    ],
+    "css": [
+      "assets/editorList.676e2888.css"
+    ]
+  },
+  "_excellClient.3f24051c.js": {
+    "file": "assets/excellClient.3f24051c.js",
+    "imports": [
+      "_exceljs.min.6ef7067d.js"
+    ]
+  },
+  "resources/ts/pages/admin/client/clientList.vue": {
+    "file": "assets/clientList.15dcc5bb.js",
+    "src": "resources/ts/pages/admin/client/clientList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_excellClient.3f24051c.js",
+      "_active-dialog.vue_vue_type_script_setup_true_lang.674ad4f2.js",
+      "_disabled-dialog.vue_vue_type_script_setup_true_lang.be09f50b.js",
+      "_jspdf.plugin.autotable.5f00a359.js",
+      "_clientPrintDialog.vue_vue_type_style_index_0_lang.dfa39b32.js",
+      "_exceljs.min.6ef7067d.js"
+    ],
+    "css": [
+      "assets/clientList.d0c6c4f4.css"
+    ]
+  },
+  "resources/ts/pages/admin/approved_editor/approved_for_editing.vue": {
+    "file": "assets/approved_for_editing.f91d8d00.js",
+    "src": "resources/ts/pages/admin/approved_editor/approved_for_editing.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_moment.40bc58bf.js",
+      "resources/ts/main.ts",
+      "_jspdf.plugin.autotable.5f00a359.js"
+    ],
+    "css": [
+      "assets/approved_for_editing.7be50049.css"
+    ]
+  },
+  "resources/ts/pages/editor/published_journals.vue": {
+    "file": "assets/published_journals.3613db19.js",
+    "src": "resources/ts/pages/editor/published_journals.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_moment.40bc58bf.js",
+      "_excelPaidList.6a4350d3.js",
+      "_jspdf.plugin.autotable.5f00a359.js",
+      "_publishedPrintDialog.vue_vue_type_style_index_0_lang.f9bd4c4d.js",
+      "_exceljs.min.6ef7067d.js"
+    ],
+    "css": [
+      "assets/published_journals.6126cc09.css"
+    ]
+  },
+  "resources/ts/pages/editor/approved_documents.vue": {
+    "file": "assets/approved_documents.6002117f.js",
+    "src": "resources/ts/pages/editor/approved_documents.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_moment.40bc58bf.js",
+      "_excelPaidList.6a4350d3.js",
+      "_jspdf.plugin.autotable.5f00a359.js",
+      "_assignedPrintDialog.vue_vue_type_style_index_0_lang.930d56ae.js",
+      "_exceljs.min.6ef7067d.js"
+    ],
+    "css": [
+      "assets/approved_documents.4c0136dd.css"
+    ]
+  },
+  "resources/ts/pages/client/progress_request.vue": {
+    "file": "assets/progress_request.686e3ce5.js",
+    "src": "resources/ts/pages/client/progress_request.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "resources/ts/pages/client/my-request/dialog/viewRequestsApproved.vue",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_vue3-pdf-app.umd.bbeacf02.js"
+    ],
+    "css": [
+      "assets/progress_request.f1fdc916.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/under-maintenance.vue": {
+    "file": "assets/under-maintenance.35d71a94.js",
+    "src": "resources/ts/pages/under-maintenance.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/under-maintenance.4a4fc11c.css"
+    ]
+  },
+  "resources/ts/pages/second-page.vue": {
+    "file": "assets/second-page.e88a7ed0.js",
+    "src": "resources/ts/pages/second-page.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_dialog.vue_vue_type_script_setup_true_lang.c09442df.js",
+      "_preview-image.vue_vue_type_style_index_0_lang.bc71838b.js",
+      "_VFileInput.a98189c2.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js"
+    ],
+    "css": [
+      "assets/second-page.94a20f49.css"
+    ]
+  },
+  "_dialog.vue_vue_type_script_setup_true_lang.c09442df.js": {
+    "file": "assets/dialog.vue_vue_type_script_setup_true_lang.c09442df.js",
+    "imports": [
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VFileInput.a98189c2.js"
+    ]
+  },
+  "_preview-image.vue_vue_type_style_index_0_lang.bc71838b.js": {
+    "file": "assets/preview-image.vue_vue_type_style_index_0_lang.bc71838b.js",
+    "imports": [
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/preview-image.de9f24f1.css"
+    ]
+  },
+  "resources/ts/pages/preview-image.vue": {
+    "file": "assets/preview-image.1f91bd1b.js",
+    "src": "resources/ts/pages/preview-image.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_preview-image.vue_vue_type_style_index_0_lang.bc71838b.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/not-authorized.vue": {
+    "file": "assets/not-authorized.977cc252.js",
+    "src": "resources/ts/pages/not-authorized.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/not-authorized.4a4fc11c.css"
+    ],
+    "assets": [
+      "assets/401.605d79f7.png"
+    ]
+  },
+  "_ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js": {
+    "file": "assets/ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js",
+    "imports": [
+      "resources/ts/main.ts"
+    ]
+  },
+  "resources/ts/pages/login-editor.vue": {
+    "file": "assets/login-editor.37ae42af.js",
+    "src": "resources/ts/pages/login-editor.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/login-editor.10d4b596.css"
+    ]
+  },
+  "resources/ts/pages/login-client.vue": {
+    "file": "assets/login-client.56ccad28.js",
+    "src": "resources/ts/pages/login-client.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/login-client.10d4b596.css"
+    ]
+  },
+  "resources/ts/pages/home-page.vue": {
+    "file": "assets/home-page.7249b87f.js",
+    "src": "resources/ts/pages/home-page.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/home-page.10d4b596.css"
+    ]
+  },
+  "resources/ts/pages/dialog.vue": {
+    "file": "assets/dialog.f3b28408.js",
+    "src": "resources/ts/pages/dialog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_dialog.vue_vue_type_script_setup_true_lang.c09442df.js",
+      "resources/ts/main.ts",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VFileInput.a98189c2.js"
+    ]
+  },
+  "resources/ts/pages/[...all].vue": {
+    "file": "assets/_...all_.9ab703da.js",
+    "src": "resources/ts/pages/[...all].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js",
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/_...all_.4a4fc11c.css"
+    ],
+    "assets": [
+      "assets/404.fee4b60b.png"
+    ]
+  },
+  "resources/ts/pages/ViewProfile/[id].vue": {
+    "file": "assets/_id_.3f80e7dc.js",
+    "src": "resources/ts/pages/ViewProfile/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_editDialog.vue_vue_type_script_setup_true_lang.b5a4b283.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/_id_.ec23f44a.css"
+    ]
+  },
+  "resources/ts/pages/admin/settings/[tab].vue": {
+    "file": "assets/_tab_.293347ef.js",
+    "src": "resources/ts/pages/admin/settings/[tab].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_VTabs.8352486c.js"
+    ]
+  },
+  "resources/ts/pages/editor/assigned-view/[id].vue": {
+    "file": "assets/_id_.a93bcdc5.js",
+    "src": "resources/ts/pages/editor/assigned-view/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js",
+      "resources/ts/main.ts",
+      "_vue3-pdf-app.umd.bbeacf02.js",
+      "_validationApproved.vue_vue_type_script_setup_true_lang.e65af9e5.js",
+      "resources/ts/pages/editor/assigned-view/validation_dialog/reasonReject.vue",
+      "_401_error.6e3d3e3f.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_validationRejected.vue_vue_type_script_setup_true_lang.497d6e3b.js",
+      "_VTextarea.f3ff2a93.js"
+    ],
+    "css": [
+      "assets/_id_.9b87727c.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "_401_error.6e3d3e3f.js": {
+    "file": "assets/401_error.6e3d3e3f.js",
+    "assets": [
+      "assets/401_error.84e78b00.png"
+    ]
+  },
+  "resources/ts/pages/editor/upload-published-view/[id].vue": {
+    "file": "assets/_id_.08cd2e28.js",
+    "src": "resources/ts/pages/editor/upload-published-view/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js",
+      "resources/ts/main.ts",
+      "_vue3-pdf-app.umd.bbeacf02.js",
+      "resources/ts/pages/editor/upload-published-view/editedUpload_dialog/reupload.vue",
+      "_401_error.6e3d3e3f.js",
+      "_released.vue_vue_type_script_setup_true_lang.3113d485.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/_id_.c0a33a81.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/admin/client/view/[id].vue": {
+    "file": "assets/_id_.c038d892.js",
+    "src": "resources/ts/pages/admin/client/view/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_moment.40bc58bf.js"
+    ],
+    "css": [
+      "assets/_id_.0401cc19.css"
+    ]
+  },
+  "resources/ts/pages/admin/editor/view/[id].vue": {
+    "file": "assets/_id_.92047dbc.js",
+    "src": "resources/ts/pages/admin/editor/view/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_moment.40bc58bf.js"
+    ],
+    "css": [
+      "assets/_id_.4e1ce2bb.css"
+    ]
+  },
+  "resources/ts/pages/admin/profile/ViewProfile/[id].vue": {
+    "file": "assets/_id_.f6009446.js",
+    "src": "resources/ts/pages/admin/profile/ViewProfile/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js",
+      "resources/ts/main.ts",
+      "_page_error_401.a454014d.js"
+    ],
+    "css": [
+      "assets/_id_.983a78db.css"
+    ]
+  },
+  "_page_error_401.a454014d.js": {
+    "file": "assets/page_error_401.a454014d.js",
+    "assets": [
+      "assets/page_error_401.a8bdbea5.png"
+    ]
+  },
+  "resources/ts/pages/apps/invoice/edit/[id].vue": {
+    "file": "assets/_id_.6ca1de51.js",
+    "src": "resources/ts/pages/apps/invoice/edit/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_InvoiceSendInvoiceDrawer.vue_vue_type_script_setup_true_lang.e3edda77.js",
+      "_InvoiceEditable.vue_vue_type_script_setup_true_lang.798a8cd4.js",
+      "_useInvoiceStore.b9825797.js",
+      "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+      "_VTextarea.f3ff2a93.js",
+      "_VTooltip.a2b539db.js"
+    ]
+  },
+  "_InvoiceSendInvoiceDrawer.vue_vue_type_script_setup_true_lang.e3edda77.js": {
+    "file": "assets/InvoiceSendInvoiceDrawer.vue_vue_type_script_setup_true_lang.e3edda77.js",
+    "imports": [
+      "resources/ts/main.ts",
+      "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+      "_VTextarea.f3ff2a93.js"
+    ]
+  },
+  "resources/ts/pages/apps/invoice/preview/[id].vue": {
+    "file": "assets/_id_.d66cf94c.js",
+    "src": "resources/ts/pages/apps/invoice/preview/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_InvoiceSendInvoiceDrawer.vue_vue_type_script_setup_true_lang.e3edda77.js",
+      "_useInvoiceStore.b9825797.js",
+      "_AppDateTimePicker.vue_vue_type_style_index_0_lang.96f694d0.js",
+      "_VTextarea.f3ff2a93.js"
+    ],
+    "css": [
+      "assets/_id_.3c5a0028.css"
+    ]
+  },
+  "resources/ts/pages/client/profile/ViewProfile/[id].vue": {
+    "file": "assets/_id_.4b7c2585.js",
+    "src": "resources/ts/pages/client/profile/ViewProfile/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js",
+      "resources/ts/main.ts",
+      "_editDialog.vue_vue_type_script_setup_true_lang.936dfb2c.js",
+      "_page_error_401.a454014d.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/_id_.54362618.css"
+    ]
+  },
+  "resources/ts/pages/client/publish_journal/download-view/[id].vue": {
+    "file": "assets/_id_.b46659ca.js",
+    "src": "resources/ts/pages/client/publish_journal/download-view/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js",
+      "resources/ts/main.ts",
+      "_vue3-pdf-app.umd.bbeacf02.js",
+      "_moment.40bc58bf.js",
+      "_401_error.6e3d3e3f.js"
+    ],
+    "css": [
+      "assets/_id_.ed9ab906.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/editor/profile/ViewProfile/[id].vue": {
+    "file": "assets/_id_.96a4ae97.js",
+    "src": "resources/ts/pages/editor/profile/ViewProfile/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ErrorHeader.vue_vue_type_script_setup_true_lang.814619c2.js",
+      "resources/ts/main.ts",
+      "_editDialog.vue_vue_type_script_setup_true_lang.c7c123c2.js",
+      "_page_error_401.a454014d.js",
+      "_DialogCloseBtn.vue_vue_type_script_setup_true_lang.d9594284.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/_id_.cad38e49.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/RequestDialog/approved-request/[id].vue": {
+    "file": "assets/_id_.d0236b91.js",
+    "src": "resources/ts/pages/admin/request/RequestDialog/approved-request/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_validationApproved.vue_vue_type_script_setup_true_lang.c3297ce7.js",
+      "resources/ts/pages/admin/request/RequestDialog/reupload.vue",
+      "_vue3-pdf-app.umd.bbeacf02.js",
+      "_VFileInput.a98189c2.js"
+    ],
+    "css": [
+      "assets/_id_.58c5bc75.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/pages/admin/request/RequestDialog/view-request/[id].vue": {
+    "file": "assets/_id_.59180c38.js",
+    "src": "resources/ts/pages/admin/request/RequestDialog/view-request/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_vue3-pdf-app.umd.bbeacf02.js"
+    ],
+    "css": [
+      "assets/_id_.3cf0e8b2.css",
+      "assets/main.019490c9.css"
+    ]
+  },
+  "resources/ts/@core/components/AppBarSearch.vue": {
+    "file": "assets/AppBarSearch.bece0a28.js",
+    "src": "resources/ts/@core/components/AppBarSearch.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts"
+    ],
+    "css": [
+      "assets/AppBarSearch.bf479cd2.css"
+    ]
+  },
+  "node_modules/html2canvas/dist/html2canvas.esm.js": {
+    "file": "assets/html2canvas.esm.0eae2bf4.js",
+    "src": "node_modules/html2canvas/dist/html2canvas.esm.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/dompurify/dist/purify.es.js": {
+    "file": "assets/purify.es.0f2e43f6.js",
+    "src": "node_modules/dompurify/dist/purify.es.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/canvg/lib/index.es.js": {
+    "file": "assets/index.es.e30815e8.js",
+    "src": "node_modules/canvg/lib/index.es.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/ts/main.ts",
+      "_jspdf.plugin.autotable.5f00a359.js"
+    ]
+  },
+  "resources/ts/layouts/blank.css": {
+    "file": "assets/blank.3fac9ebf.css",
+    "src": "resources/ts/layouts/blank.css"
+  },
+  "resources/ts/pages/client/my-request/dialog/viewRequestsApproved.css": {
+    "file": "assets/viewRequestsApproved.fe99b36f.css",
+    "src": "resources/ts/pages/client/my-request/dialog/viewRequestsApproved.css"
+  },
+  "resources/ts/pages/dashboard/chartjs/chartjs.css": {
+    "file": "assets/chartjs.70af97fb.css",
+    "src": "resources/ts/pages/dashboard/chartjs/chartjs.css"
+  },
+  "resources/ts/pages/client/transaction/dialog/view_payment-dialog.css": {
+    "file": "assets/view_payment-dialog.d13b8cf6.css",
+    "src": "resources/ts/pages/client/transaction/dialog/view_payment-dialog.css"
+  },
+  "preview-image.css": {
+    "file": "assets/preview-image.de9f24f1.css",
+    "src": "preview-image.css"
+  },
+  "resources/ts/pages/admin/request/paid_accounts.css": {
+    "file": "assets/paid_accounts.19866592.css",
+    "src": "resources/ts/pages/admin/request/paid_accounts.css"
+  },
+  "resources/ts/pages/admin/request/uploaded_journal.css": {
+    "file": "assets/uploaded_journal.46482caf.css",
+    "src": "resources/ts/pages/admin/request/uploaded_journal.css"
+  },
+  "resources/ts/pages/editor/assigned-view/validation_dialog/reasonReject.css": {
+    "file": "assets/reasonReject.aa617b65.css",
+    "src": "resources/ts/pages/editor/assigned-view/validation_dialog/reasonReject.css"
+  },
+  "resources/ts/pages/admin/request/RequestDialog/reupload.css": {
+    "file": "assets/reupload.8a563eed.css",
+    "src": "resources/ts/pages/admin/request/RequestDialog/reupload.css"
+  },
+  "VFileInput.css": {
+    "file": "assets/VFileInput.0ec63f7b.css",
+    "src": "VFileInput.css"
+  },
+  "resources/ts/pages/admin/editor/editorList.css": {
+    "file": "assets/editorList.676e2888.css",
+    "src": "resources/ts/pages/admin/editor/editorList.css"
+  },
+  "resources/ts/pages/client/transaction/payment.css": {
+    "file": "assets/payment.14b1648c.css",
+    "src": "resources/ts/pages/client/transaction/payment.css"
+  },
+  "resources/ts/pages/admin/services_&_payment/dialog/edit_services-dialog.css": {
+    "file": "assets/edit_services-dialog.70724452.css",
+    "src": "resources/ts/pages/admin/services_&_payment/dialog/edit_services-dialog.css"
+  },
+  "resources/ts/pages/client/my-request/dialog/reupload.css": {
+    "file": "assets/reupload.5b2069df.css",
+    "src": "resources/ts/pages/client/my-request/dialog/reupload.css"
+  },
+  "resources/ts/pages/admin/request/PaidDialog/view_paid-dialog.css": {
+    "file": "assets/view_paid-dialog.d201534a.css",
+    "src": "resources/ts/pages/admin/request/PaidDialog/view_paid-dialog.css"
+  },
+  "clientPrintDialog.css": {
+    "file": "assets/clientPrintDialog.46c782a5.css",
+    "src": "clientPrintDialog.css"
+  },
+  "resources/ts/pages/client/my-request/dialog/viewRequestsRejected.css": {
+    "file": "assets/viewRequestsRejected.46447b30.css",
+    "src": "resources/ts/pages/client/my-request/dialog/viewRequestsRejected.css"
+  },
+  "resources/ts/pages/client/profile/ViewProfile/[id].css": {
+    "file": "assets/_id_.54362618.css",
+    "src": "resources/ts/pages/client/profile/ViewProfile/[id].css"
+  },
+  "NavBarNotifications.css": {
+    "file": "assets/NavBarNotifications.2990782f.css",
+    "src": "NavBarNotifications.css"
+  },
+  "resources/ts/pages/admin/request/RequestDialog/view-request/[id].css": {
+    "file": "assets/_id_.3cf0e8b2.css",
+    "src": "resources/ts/pages/admin/request/RequestDialog/view-request/[id].css"
+  },
+  "change_password.css": {
+    "file": "assets/change_password.3e959b1f.css",
+    "src": "change_password.css"
+  },
+  "resources/ts/pages/apps/invoice/preview/[id].css": {
+    "file": "assets/_id_.3c5a0028.css",
+    "src": "resources/ts/pages/apps/invoice/preview/[id].css"
+  },
+  "resources/ts/pages/admin/request/RequestDialog/view_request-dialog.css": {
+    "file": "assets/view_request-dialog.a74e2577.css",
+    "src": "resources/ts/pages/admin/request/RequestDialog/view_request-dialog.css"
+  },
+  "resources/ts/pages/admin/services_&_payment/dialog/edit_payment_method-dialog.css": {
+    "file": "assets/edit_payment_method-dialog.825e35f9.css",
+    "src": "resources/ts/pages/admin/services_&_payment/dialog/edit_payment_method-dialog.css"
+  },
+  "editorPrintDialog.css": {
+    "file": "assets/editorPrintDialog.46c782a5.css",
+    "src": "editorPrintDialog.css"
+  },
+  "resources/ts/pages/ViewProfile/[id].css": {
+    "file": "assets/_id_.ec23f44a.css",
+    "src": "resources/ts/pages/ViewProfile/[id].css"
+  },
+  "resources/ts/pages/client/publish_journal/download_docs.css": {
+    "file": "assets/download_docs.9d817fad.css",
+    "src": "resources/ts/pages/client/publish_journal/download_docs.css"
+  },
+  "resources/ts/pages/editor/upload-published-view/editedUpload_dialog/reupload.css": {
+    "file": "assets/reupload.5498aa9c.css",
+    "src": "resources/ts/pages/editor/upload-published-view/editedUpload_dialog/reupload.css"
+  },
+  "resources/ts/pages/admin/client/clientList.css": {
+    "file": "assets/clientList.d0c6c4f4.css",
+    "src": "resources/ts/pages/admin/client/clientList.css"
+  },
+  "resources/ts/pages/client/my-request/approved.css": {
+    "file": "assets/approved.5a160871.css",
+    "src": "resources/ts/pages/client/my-request/approved.css"
+  },
+  "VBadge.css": {
+    "file": "assets/VBadge.e2a37be5.css",
+    "src": "VBadge.css"
+  },
+  "resources/ts/pages/editor/published_journals.css": {
+    "file": "assets/published_journals.6126cc09.css",
+    "src": "resources/ts/pages/editor/published_journals.css"
+  },
+  "servicesPrintDialog.css": {
+    "file": "assets/servicesPrintDialog.46c782a5.css",
+    "src": "servicesPrintDialog.css"
+  },
+  "resources/ts/pages/admin/request/PaidDialog/reject_paid-dialog.css": {
+    "file": "assets/reject_paid-dialog.5e15c6d2.css",
+    "src": "resources/ts/pages/admin/request/PaidDialog/reject_paid-dialog.css"
+  },
+  "resources/ts/@core/components/AppBarSearch.css": {
+    "file": "assets/AppBarSearch.bf479cd2.css",
+    "src": "resources/ts/@core/components/AppBarSearch.css"
+  },
+  "resources/ts/pages/editor/approved_documents.css": {
+    "file": "assets/approved_documents.4c0136dd.css",
+    "src": "resources/ts/pages/editor/approved_documents.css"
+  },
+  "main.css": {
+    "file": "assets/main.019490c9.css",
+    "src": "main.css"
+  },
+  "resources/ts/pages/admin/summary/paidList.css": {
+    "file": "assets/paidList.1ac77562.css",
+    "src": "resources/ts/pages/admin/summary/paidList.css"
+  },
+  "resources/ts/pages/second-page.css": {
+    "file": "assets/second-page.94a20f49.css",
+    "src": "resources/ts/pages/second-page.css"
+  },
+  "VTabs.css": {
+    "file": "assets/VTabs.ce9ce94e.css",
+    "src": "VTabs.css"
+  },
+  "resources/ts/pages/admin/services_&_payment/payment_method.css": {
+    "file": "assets/payment_method.99cd3643.css",
+    "src": "resources/ts/pages/admin/services_&_payment/payment_method.css"
+  },
+  "resources/ts/pages/home-page.css": {
+    "file": "assets/home-page.10d4b596.css",
+    "src": "resources/ts/pages/home-page.css"
+  },
+  "resources/ts/pages/admin/request/RequestDialog/approved-request/[id].css": {
+    "file": "assets/_id_.58c5bc75.css",
+    "src": "resources/ts/pages/admin/request/RequestDialog/approved-request/[id].css"
+  },
+  "resources/ts/pages/admin/request/PaidDialog/approve_paid-dialog.css": {
+    "file": "assets/approve_paid-dialog.3a287b8e.css",
+    "src": "resources/ts/pages/admin/request/PaidDialog/approve_paid-dialog.css"
+  },
+  "resources/ts/pages/client/transaction/dialog/upload-dialog.css": {
+    "file": "assets/upload-dialog.f84ca678.css",
+    "src": "resources/ts/pages/client/transaction/dialog/upload-dialog.css"
+  },
+  "resources/ts/pages/client/my-request/dialog/viewRequestsPending.css": {
+    "file": "assets/viewRequestsPending.f1659b78.css",
+    "src": "resources/ts/pages/client/my-request/dialog/viewRequestsPending.css"
+  },
+  "resources/ts/pages/client/my-request/rejected.css": {
+    "file": "assets/rejected.f9d6d9ac.css",
+    "src": "resources/ts/pages/client/my-request/rejected.css"
+  },
+  "resources/ts/pages/admin/request/RequestDialog/reject_request-dialog.css": {
+    "file": "assets/reject_request-dialog.00e38989.css",
+    "src": "resources/ts/pages/admin/request/RequestDialog/reject_request-dialog.css"
+  },
+  "paidPrintDialog.css": {
+    "file": "assets/paidPrintDialog.46c782a5.css",
+    "src": "paidPrintDialog.css"
+  },
+  "VTextarea.css": {
+    "file": "assets/VTextarea.13bfb6d6.css",
+    "src": "VTextarea.css"
+  },
+  "resources/ts/pages/not-authorized.css": {
+    "file": "assets/not-authorized.4a4fc11c.css",
+    "src": "resources/ts/pages/not-authorized.css"
+  },
+  "resources/ts/layouts/components/NavSearchBar.css": {
+    "file": "assets/NavSearchBar.539cc712.css",
+    "src": "resources/ts/layouts/components/NavSearchBar.css"
+  },
+  "resources/ts/pages/client/my-request/pending.css": {
+    "file": "assets/pending.f87b75f7.css",
+    "src": "resources/ts/pages/client/my-request/pending.css"
+  },
+  "resources/ts/pages/admin/request/RequestDialog/approve_request-dialog.css": {
+    "file": "assets/approve_request-dialog.f970de5c.css",
+    "src": "resources/ts/pages/admin/request/RequestDialog/approve_request-dialog.css"
+  },
+  "paymentPrintDialog.css": {
+    "file": "assets/paymentPrintDialog.46c782a5.css",
+    "src": "paymentPrintDialog.css"
+  },
+  "resources/ts/pages/admin/published/publishedJournal.css": {
+    "file": "assets/publishedJournal.236b78ed.css",
+    "src": "resources/ts/pages/admin/published/publishedJournal.css"
+  },
+  "resources/ts/pages/editor/publish/upload_documents.css": {
+    "file": "assets/upload_documents.2313fd2b.css",
+    "src": "resources/ts/pages/editor/publish/upload_documents.css"
+  },
+  "resources/ts/pages/login-client.css": {
+    "file": "assets/login-client.10d4b596.css",
+    "src": "resources/ts/pages/login-client.css"
+  },
+  "resources/ts/pages/admin/services_&_payment/services.css": {
+    "file": "assets/services.2a614b2d.css",
+    "src": "resources/ts/pages/admin/services_&_payment/services.css"
+  },
+  "resources/ts/pages/dashboard/chartjs/ChartJsPolarAreaChart.css": {
+    "file": "assets/ChartJsPolarAreaChart.ff0ee56f.css",
+    "src": "resources/ts/pages/dashboard/chartjs/ChartJsPolarAreaChart.css"
+  },
+  "resources/ts/pages/admin/profile/ViewProfile/[id].css": {
+    "file": "assets/_id_.983a78db.css",
+    "src": "resources/ts/pages/admin/profile/ViewProfile/[id].css"
+  },
+  "VTooltip.css": {
+    "file": "assets/VTooltip.015c631c.css",
+    "src": "VTooltip.css"
+  },
+  "resources/ts/pages/client/transaction/dialog/paymentDialog.css": {
+    "file": "assets/paymentDialog.eec78c74.css",
+    "src": "resources/ts/pages/client/transaction/dialog/paymentDialog.css"
+  },
+  "resources/ts/pages/admin/editor/view/[id].css": {
+    "file": "assets/_id_.4e1ce2bb.css",
+    "src": "resources/ts/pages/admin/editor/view/[id].css"
+  },
+  "resources/ts/pages/client/publish_journal/download-view/[id].css": {
+    "file": "assets/_id_.ed9ab906.css",
+    "src": "resources/ts/pages/client/publish_journal/download-view/[id].css"
+  },
+  "publishedPrintDialog.css": {
+    "file": "assets/publishedPrintDialog.46c782a5.css",
+    "src": "publishedPrintDialog.css"
+  },
+  "resources/ts/pages/admin/summary/salesReport.css": {
+    "file": "assets/salesReport.b52934e7.css",
+    "src": "resources/ts/pages/admin/summary/salesReport.css"
+  },
+  "resources/ts/pages/[...all].css": {
+    "file": "assets/_...all_.4a4fc11c.css",
+    "src": "resources/ts/pages/[...all].css"
+  },
+  "resources/ts/pages/login-editor.css": {
+    "file": "assets/login-editor.10d4b596.css",
+    "src": "resources/ts/pages/login-editor.css"
+  },
+  "assignedPrintDialog.css": {
+    "file": "assets/assignedPrintDialog.46c782a5.css",
+    "src": "assignedPrintDialog.css"
+  },
+  "resources/ts/pages/admin/services_&_payment/dialog/addservices-dialog.css": {
+    "file": "assets/addservices-dialog.a5aaa30f.css",
+    "src": "resources/ts/pages/admin/services_&_payment/dialog/addservices-dialog.css"
+  },
+  "resources/ts/pages/admin/approved_editor/approved_for_editing.css": {
+    "file": "assets/approved_for_editing.7be50049.css",
+    "src": "resources/ts/pages/admin/approved_editor/approved_for_editing.css"
+  },
+  "resources/ts/pages/apps/invoice/list/index.css": {
+    "file": "assets/index.13f6d681.css",
+    "src": "resources/ts/pages/apps/invoice/list/index.css"
+  },
+  "resources/ts/pages/under-maintenance.css": {
+    "file": "assets/under-maintenance.4a4fc11c.css",
+    "src": "resources/ts/pages/under-maintenance.css"
+  },
+  "resources/ts/pages/admin/services_&_payment/dialog/addpayment-dialog.css": {
+    "file": "assets/addpayment-dialog.5bca54a9.css",
+    "src": "resources/ts/pages/admin/services_&_payment/dialog/addpayment-dialog.css"
+  },
+  "AppDateTimePicker.css": {
+    "file": "assets/AppDateTimePicker.00f3b0ba.css",
+    "src": "AppDateTimePicker.css"
+  },
+  "resources/ts/pages/editor/upload-published-view/[id].css": {
+    "file": "assets/_id_.c0a33a81.css",
+    "src": "resources/ts/pages/editor/upload-published-view/[id].css"
+  },
+  "resources/ts/pages/editor/assigned-view/[id].css": {
+    "file": "assets/_id_.9b87727c.css",
+    "src": "resources/ts/pages/editor/assigned-view/[id].css"
+  },
+  "resources/ts/pages/admin/client/view/[id].css": {
+    "file": "assets/_id_.0401cc19.css",
+    "src": "resources/ts/pages/admin/client/view/[id].css"
+  },
+  "resources/ts/pages/client/transaction/dialog/edit_payment-dialog.css": {
+    "file": "assets/edit_payment-dialog.0cf75eeb.css",
+    "src": "resources/ts/pages/client/transaction/dialog/edit_payment-dialog.css"
+  },
+  "resources/ts/pages/client/progress_request.css": {
+    "file": "assets/progress_request.f1fdc916.css",
+    "src": "resources/ts/pages/client/progress_request.css"
+  },
+  "resources/ts/pages/dashboard/chartjs/apex-chart.css": {
+    "file": "assets/apex-chart.c048d4a1.css",
+    "src": "resources/ts/pages/dashboard/chartjs/apex-chart.css"
+  },
+  "resources/ts/pages/editor/profile/ViewProfile/[id].css": {
+    "file": "assets/_id_.cad38e49.css",
+    "src": "resources/ts/pages/editor/profile/ViewProfile/[id].css"
+  },
+  "resources/ts/main.css": {
+    "file": "assets/main.57b2d79e.css",
+    "src": "resources/ts/main.css"
+  },
+  "resources/images/logo.png": {
+    "file": "assets/DITADS Logo_PNG.6072795d.png",
+    "src": "resources/images/logo.png"
+  }
+}

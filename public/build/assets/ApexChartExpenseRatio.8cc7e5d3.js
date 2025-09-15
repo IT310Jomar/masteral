@@ -1,0 +1,1 @@
+import{d as o,aq as a,aO as r,cf as c,c as p,E as u,s as e,cb as i}from"./main.dc3150f2.js";const C=o({__name:"ApexChartExpenseRatio",setup(f){const t=a(),s=r(()=>c(t.current.value)),n=[85,16,50,15,40,25,30,10];return(h,m)=>(p(),u(e(i),{type:"donut",height:"410",options:e(s),series:n},null,8,["options"]))}});export{C as default};

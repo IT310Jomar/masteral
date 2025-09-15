@@ -1,0 +1,1 @@
+import{d as n,c as a,E as c,w as t,f as s,A as l,z as r}from"./main.dc3150f2.js";const d=n({__name:"DialogCloseBtn",props:{icon:{default:"tabler-x"}},setup(o){const e=o;return(i,p)=>(a(),c(r,{icon:"",class:"v-dialog-close-btn"},{default:t(()=>[s(l,{icon:e.icon},null,8,["icon"])]),_:1}))}});export{d as _};
