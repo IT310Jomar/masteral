@@ -358,7 +358,7 @@ onMounted(() => {
       />
     </VDialog>
 
-    <VDialog v-model="paymentDialogView" max-width="450">
+    <VDialog v-model="paymentDialogView" max-width="580">
       <viewpayment
         :row="paymentRow"
         @close="paymentDialogView = false"
@@ -366,7 +366,7 @@ onMounted(() => {
       />
     </VDialog>
 
-    <VDialog v-model="paymentDialogEdit" max-width="450">
+    <VDialog v-model="paymentDialogEdit" max-width="580">
       <editpayment
         :row="paymentRow"
         @close="paymentDialogEdit = false"

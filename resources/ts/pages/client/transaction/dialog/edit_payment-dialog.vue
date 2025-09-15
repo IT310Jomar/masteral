@@ -247,7 +247,7 @@ const minimumValueValidator = (value: number) =>
 
 <template>
   <section>
-    <DialogCloseBtn @click="close" />
+    <!-- <DialogCloseBtn @click="close" /> -->
         <VCard
           max-height="580px"
           class="d-flex flex-column flex-grow-1 overflow-auto"
@@ -412,8 +412,8 @@ const minimumValueValidator = (value: number) =>
       </VCard>
     </v-dialog>
 
-    <v-dialog v-model="dialogCode" max-width="500">
-      <DialogCloseBtn @click="dialogCode = false" />
+    <v-dialog v-model="dialogCode" max-width="580">
+      <!-- <DialogCloseBtn @click="dialogCode = false" /> -->
       <VCard title="Preview Uploaded" class="d-flex flex-column flex-grow-1 overflow-auto">
         <VCardText v-if="QrCODE">
           <v-img class="circle-image" :src="QrCODE" alt="Zoomed Image"></v-img>

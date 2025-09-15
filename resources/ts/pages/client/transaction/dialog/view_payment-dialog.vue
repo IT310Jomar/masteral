@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { emailValidator, requiredValidator } from "@validators";
-import { VForm } from "vuetify/components";
 import { environment } from "@/environments/environment";
+import { requiredValidator } from "@validators";
 import axios from "axios";
+import { VForm } from "vuetify/components";
 
 const emit = defineEmits(["close", "handledata"]);
 const props = defineProps(['row']);
@@ -104,7 +104,7 @@ onMounted(()=> {
 
 <template>
       <section>
-    <DialogCloseBtn @click="close" />
+    <!-- <DialogCloseBtn @click="close" /> -->
     <v-row>
       <v-col>
         <VCard
@@ -228,31 +228,30 @@ onMounted(()=> {
                 <VLabel class="text-blue">Proof of Payment</VLabel>
               </VCol>
             </VRow>
-            <VRow class="text-center">
-              <VCol>
-                <VCol v-if="proof_of_payment">
-                  <VBtn color="red" variant="tonal" prepend-icon="material-symbols:photo-camera-back-outline-sharp" size="small" @click="toggleDialogPayment"> Click ME!</VBtn>
-                </VCol>
-              </VCol>
-            </VRow>
+          
         </VCardText>
-        <VDivider />
-          <VCardText>
-            <VCol style="text-align: right">
-              <VBtn @click="close" color="error"> Close</VBtn>
+        <VDivider style="margin-top: 30px;" />
+            <VCol class="text-right">
+                <VCol v-if="proof_of_payment">
+                  <VBtn  @click="toggleDialogPayment"  color="warning"  rounded="pill"><VIcon
+                    start
+                    icon="tabler-eye"
+                  /> View Receipt</VBtn>
+                  <VBtn @click="close" color="error" class="ml-2"> Close</VBtn>
             </VCol>
-          </VCardText>
+            </VCol>
         </VCard>
       </v-col>
     </v-row>
 
-    <v-dialog v-model="dialogPreview" max-width="500">
-      <DialogCloseBtn @click="dialogPreview = false" />
+    <v-dialog v-model="dialogPreview" max-width="580">
+      <!-- <DialogCloseBtn @click="dialogPreview = false" /> -->
       <VCard title="Preview" class="d-flex flex-column flex-grow-1 overflow-auto">
         <VCardText v-if="proof_of_payment">
           <v-img :src="'/storage/proofofpayment_image/' + proof_of_payment" alt="Zoomed Image"></v-img>
         </VCardText>
         <VCardText>
+          
           <VCol>
             <div class="float-right">
               <v-btn @click="dialogPreview = false" color="error" >Close</v-btn>
